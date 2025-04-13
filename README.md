@@ -1,6 +1,6 @@
 # 💰 Personal Finance Tracker (CLI-Based)
----
-![3A3D3FA0-0A59-41E8-B70A-763B213EA65B](https://github.com/user-attachments/assets/7d313e74-9684-4e45-aa06-eab096ba4ffd)
+
+![Screenshot 2025-04-13 at 6 08 49 AM](https://github.com/user-attachments/assets/20759603-81b3-4365-9f07-44aeb8e45d9e)
 
 Track your income and expenses with a simple command-line tool built in Python. This app stores your financial data in a CSV file, provides summaries within custom date ranges, and even plots your income and expense trends.
 
