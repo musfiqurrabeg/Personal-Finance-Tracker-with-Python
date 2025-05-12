@@ -12,7 +12,7 @@ Track your income and expenses with a simple command-line tool built in Python. 
 - 📊 View detailed transaction summary between date ranges
 - 📈 Visualize income and expense trends with matplotlib
 - 🧠 Clean and simple CLI interface
-- 📁 All data will be stored locally in a CSV file (`finance_data.csv`)
+- 📁 All data will be stored locally in a CSV files (`finance_data.csv`)
 
 ---
 
